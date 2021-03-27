@@ -1,2 +1,2 @@
 # CS410_bonus
-Fahrenheit-Celsius convertor
+Building a Fahrenheit-Celsius convertor with C++
